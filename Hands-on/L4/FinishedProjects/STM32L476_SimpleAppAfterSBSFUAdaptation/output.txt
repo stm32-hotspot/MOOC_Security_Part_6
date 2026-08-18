@@ -1,0 +1,16 @@
+block size =16
+number of segment :4
+0x8089e30
+0x8089ea0
+0x8089eb0
+number of segment :6
+0x8000188
+0x80053cc
+0x80058c8
+0x800d3d8
+0x800d520
+Merging
+SBSFU Base = 0x8000000
+Writing header = 0x8086000
+APPLI Base = 0x8086200
+Writing to .\Binary\SBSFU_STM32L476_SimpleApp.bin 564912
