@@ -1,7 +1,6 @@
 # MOOC Security Part 6: STM32 security ecosystem, from theory to practice
 
-WARNING  : 
-    This material has been created in 2020 and is delivered as it is.
+Disclaimer: This material was created in 2020 and is delivered as is.
 
 ## MOOC purpose 
 
